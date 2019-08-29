@@ -1,7 +1,7 @@
 def registry = "192.168.7.140"
 
 
-String0 = "$params.mjob"
+//String0 = "$params.mjob"
 def project = "sx"
 
 def git_address = "http://192.168.7.94/michong/multi-web.git"
